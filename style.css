@@ -1,0 +1,39 @@
+.title {
+    font: 1000;
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.center {
+    text-align: center;
+}
+
+.main {
+    font-size: 24px;
+    color: darkgreen;
+}
+
+body {
+    background-color: darkgray;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+    font-weight: 1000;
+    font-size: x-large;
+    color: white;
+}
+
+.lasagna a {
+    color:orangered;
+}
+
+.stew a {
+    color:tan;
+}
+
+.applepie a {
+    color: lime;
+}
