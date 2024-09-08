@@ -1,0 +1,40 @@
+body {
+    background-color: lightpink;
+    border: 12px dotted white;
+    padding: 30px;
+    margin: 12px;
+}
+h2 {
+    background-color: white;
+    margin: 20px auto;
+    padding: 12px 22px;
+    width: auto;
+    border: 10px inset gold
+}
+* {
+    text-align: center;
+    /* border: 1px solid black */
+}
+p {
+    font-size: large;
+    font-weight: 800;
+    color: white;
+}
+.ingredients {
+    text-align: center;
+    list-style: inside;
+    background-color: tan;
+    border: 10px inset silver;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px
+}
+li {
+    padding: 10px 0px;
+}
+.howto {
+    list-style-position: inside;
+    background-color: darkgreen;
+    border: 10px inset silver;
+    color: white;
+}
